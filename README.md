@@ -1,47 +1,54 @@
 NebulaMines
-Hrvatski opis
-Moderna interpretacija klasične igre Minesweeper, smještena u vizualno privlačan svemirski ambijent. NebulaMines donosi poznatu mehaniku s modernim sučeljem, responzivnim dizajnom i dodatnim značajkama koje obogaćuju iskustvo igranja. Ovaj repozitorij sadrži kompletnu React komponentu (.js datoteku) spremnu za integraciju.
+🇭🇷 Hrvatski opis
 
-Ključne značajke
-Klasična Minesweeper mehanika: Logika igre koju poznajete i volite.
+NebulaMines je moderni klon klasične igre Minesweeper, smješten u vizualno privlačan svemirski ambijent. Donosi poznatu mehaniku uz moderno sučelje, responzivan dizajn i dodatne značajke koje obogaćuju iskustvo igranja.
 
-Tri razine težine: Lako (9x9), Srednje (16x16) i Teško (16x30).
+Ovaj repozitorij sadrži kompletnu React komponentu (.js datoteku) spremnu za integraciju.
 
-Moderan i responzivan dizajn: Igra je dizajnirana da izgleda sjajno i funkcionira besprijekorno na svim uređajima.
+🔑 Ključne značajke
 
-Power-ups:
+Klasična Minesweeper mehanika – logika igre koju poznajete i volite
 
-Probe: Nasumično otkriva jedno sigurno polje.
+Tri razine težine – Lako (9x9), Srednje (16x16) i Teško (16x30)
 
-Scan: Privremeno prikazuje brojeve na svim skrivenim poljima.
+Moderan i responzivan dizajn – sjajan izgled i funkcionalnost na svim uređajima
 
-Online ljestvica (Top Scores): Mogućnost natjecanja s drugim igračima (zahtijeva implementaciju backend API-ja).
+Power-ups
 
-Podrška za mobilne uređaje: Potpuno prilagođeno za ekrane osjetljive na dodir, uključujući "dugi pritisak" za postavljanje zastavica.
+Probe – nasumično otkriva jedno sigurno polje
 
-Robusno skaliranje ploče: Igraća ploča se dinamički prilagođava veličini ekrana kako bi maksimalno iskoristila raspoloživi prostor.
+Scan – privremeno prikazuje brojeve na svim skrivenim poljima
 
-English Description
-A modern interpretation of the classic Minesweeper game, set in a visually appealing space environment. NebulaMines delivers the familiar mechanics with a modern interface, responsive design, and additional features that enrich the gameplay experience. This repository contains the complete React component (.js file) ready for integration.
+Online ljestvica (Top Scores) – natjecanje s drugim igračima (zahtijeva backend API)
 
-Key Features
-Classic Minesweeper Mechanics: The game logic you know and love.
+Podrška za mobilne uređaje – uključujući "dugi pritisak" za postavljanje zastavica
 
-Three Difficulty Levels: Easy (9x9), Medium (16x16), and Hard (16x30).
+Robusno skaliranje ploče – dinamično prilagođavanje veličini ekrana
 
-Modern and Responsive Design: The game is designed to look great and function flawlessly on all devices.
+🇬🇧 English Description
 
-Power-ups:
+NebulaMines is a modern clone of the classic Minesweeper game, set in a visually appealing space-themed environment. It delivers the familiar mechanics with a modern interface, responsive design, and additional features that enhance the gameplay experience.
 
-Probe: Randomly reveals a single safe, mine-free tile.
+This repository contains the complete React component (.js file) ready for integration.
 
-Scan: Temporarily reveals the numbers on all hidden tiles.
+🔑 Key Features
 
-Online Leaderboard (Top Scores): Ability to compete with other players (requires backend API implementation).
+Classic Minesweeper Mechanics – the game logic you know and love
 
-Mobile Device Support: Fully adapted for touch screens, including "long-press" to place flags.
+Three Difficulty Levels – Easy (9x9), Medium (16x16), and Hard (16x30)
 
-Robust Board Scaling: The game board dynamically adjusts to the screen size to maximize the use of available space.
+Modern and Responsive Design – designed to look great and work flawlessly across all devices
 
-Autor / Author
-Nenad Dobrijevic
+Power-ups
+
+Probe – randomly reveals one safe, mine-free tile
+
+Scan – temporarily reveals numbers on all hidden tiles
+
+Online Leaderboard (Top Scores) – compete with other players (requires backend API)
+
+Mobile Device Support – including "long-press" to place flags
+
+Robust Board Scaling – dynamic adjustment to screen size for maximum usability
+
+👨‍💻 Autor / Author: Nenad Dobrijevic
