@@ -41,7 +41,6 @@ This repository contains the complete **React component (.js file)** ready for i
 ---
 
 ## 📷 Screenshots  
-![Easy Mode](easy.png)
-![Easy Mode](screenshots/easy.png)
-![Medium Mode](screenshots/medium.png)
-![Hard Mode](screenshots/hard.png)
+
+<img width="1672" height="907" alt="image" src="https://github.com/user-attachments/assets/ca5c1ef4-e96c-488a-a243-63b555da0e2b" />
+
